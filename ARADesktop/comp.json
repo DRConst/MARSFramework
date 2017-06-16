@@ -1,0 +1,26 @@
+{
+"components": [
+        {
+            "anglePerTick": 0.0,
+            "axis": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "class": "rotating",
+            "id": 0,
+            "name": "rot3"
+        },
+        {
+            "anglePerTick": 0.0,
+            "axis": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "class": "rotating",
+            "id": 1,
+            "name": "rot4"
+        }
+    ]
+}
